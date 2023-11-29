@@ -1,8 +1,8 @@
 title: Jason Pondugula 
 #logo: /filepath to image - circularimage.png of headshot
 # Technical Skills Section
-technical_skills:
-  - skills: Python, SQL, AWS, HTML, CSS
+description: >
+  Technical Skills: Python, SQL, AWS, C, HTML, CSS
 
 # Personal Description Section
 description: >
