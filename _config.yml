@@ -1,6 +1,15 @@
 title: Jason Pondugula 
 #logo: /filepath to image - circularimage.png of headshot
-Technical Skills: Python, SQL, AWS, C, HTML, CSS
-Connect with Me on LinkedIn! - https://www.linkedin.com/in/jason-pondugula/
+# Technical Skills Section
+technical_skills:
+  - skills: Python, SQL, AWS, HTML, CSS
+
+# Personal Description Section
+description: >
+  I am a passionate software developer with an interest in AI, machine learning, and Cloud Computing. 
+  With a strong foundation in computer science principles and a commitment to lifelong 
+  learning, I constantly seek to improve my skills and apply them in innovative ways.
+
+linkedin_url: "https://www.linkedin.com/in/jason-pondugula/"
 #show_downloads: true (ppl can download or see code) 
 theme: jekyll-theme-minimal
