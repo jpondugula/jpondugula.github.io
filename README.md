@@ -13,8 +13,8 @@
   > GPA: 3.5/4.0 | Class of 2026 
   > Activites/Clubs: Husky Developers, UConn AI Club, UConn Data Science Club
 - The Master's School, High School Diploma - Valedictorian
-  > Class of 2026 | Honors/Awards: National AP Scholar, High Honor Roll (Four Consecutive Years), SAT: 1490, The Master's Student Award
-
+  > Class of 2026 | Honors/Awards: National AP Scholar, High Honor Roll (Four Consecutive Years), SAT: 1490 (98th Percentile), The Master's Student Award
+  
 
 ### Work Experience 
 - Bookkeeping Assistant - Solution Innovators LLC, South Windsor, CT 
@@ -27,8 +27,9 @@
 - Snake Game (Python)
 > In my personal project, I developed a Snake game using object-oriented programming in Python. The game's objective was the recreate the popular Snake Game on Google. I encapsulated the game's logic into objects and different key classes, improving the efficiency of managing its behavior and state. I covered software development lifecycle, including coding, testing, and debugging, ensuring the optimal user experience.
 
+
 ### Clubs/Activities
 - College: Husky Developers, UConn AI Club, UConn Data Science Club
-- High School: Science Club (Founder/Leader), Student Government (Class Representative), National Honors Society (Leader), Varisty Basketball (Captain), Varsity Soccer, Varsity Frisbee (Captain)
+- High School: Science Club (Founder/Leader), Student Government (Class Representative), National Honors Society (Leader), Varisty Basketball (Co-Captain), Varsity Soccer, Varsity Frisbee (Captain)
 
 
