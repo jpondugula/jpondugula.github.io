@@ -1,6 +1,7 @@
 # Jason Pondugula 
-## Computer Science Student
-### About: Graduated as Valedictorian from The Master’s School in West Simsbury, CT. Currently a Computer Science major at University of Connecticut to greater develop software engineering knowledge. Outside of coursework, involved in multiple projects and pursing/obtained certifications Obtained AWS Cloud Practitioner and Certified Associate in Project Management (PMI). Pursing AWS Solutions Architect certification. Interested in Cloud Computing, AI integration, and Project Management. 
+### Computer Science Student
+### About: 
+> Graduated as Valedictorian from The Master’s School in West Simsbury, CT. Currently a Computer Science major at University of Connecticut to greater develop software engineering knowledge. Outside of coursework, involved in multiple projects and pursing/obtained certifications Obtained AWS Cloud Practitioner and Certified Associate in Project Management (PMI). Pursing AWS Solutions Architect certification. Interested in Cloud Computing, AI integration, and Project Management. 
 
 ### Technical Skills: Python, SQL, AWS
 ### Connect with me on LinkedIn! - https://www.linkedin.com/in/jason-pondugula/
@@ -17,7 +18,7 @@
 - Bookkeeping Assistant - Solution Innovators LLC, South Windsor, CT 
 > In my role, I work with the accounting department to handle multiple internal and external jobs for the company. My responsibilities include monthly billing their clientele, reconciling of the books, managing sales tax, and calculating the biweekly payroll for employees. Communication is a vital part of my job; I regularly interact with different departments and senior employees to monitor the progress of tasks and ensure efficient completion. This interaction provides me with valuable exposure to the corporate environment, especially within an LLC structure.
 - STEM Tutor - The Master's School, West Simsbury, CT
-  > I was recognized for my outstanding academic proficiency and was selected by my school's directors among the top 10% of my class to serve as a specialized tutor in STEM subjects. My role involved providing in-depth instruction in key STEM areas such as basic Python programming, chemistry, biology, and calculus. I utilized my extensive knowledge in these subjects to improve students' understanding, academic performance, problem-solving abilities, and critical thinking. To ensure effective learning, I adopted a student-centered teaching approach. This involved tailoring my instructional methods to meet the individual learning styles and needs of each student. My focus was on creating a supportive and effective educational environment, where students could thrive in their STEM studies in and out of. This experience was not only a testament to my academic abilities but also to my skill in imparting knowledge in a way that is accessible and engaging for students.
+  >As a top student in my school, I was chosen to tutor in STEM subjects like Python programming, chemistry, biology, and calculus. I focused on enhancing students' understanding, problem-solving, and critical thinking skills through a student-centered approach, adapting my teaching to individual needs. My aim was to create a supportive environment that fostered success in STEM areas, demonstrating both my academic expertise and my ability to effectively communicate complex concepts. 
 
 
 ### Projects 
