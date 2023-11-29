@@ -3,8 +3,6 @@
 ### About: 
 > Graduated as Valedictorian from The Master’s School in West Simsbury, CT. Currently a Computer Science major at University of Connecticut to greater develop software engineering knowledge. Outside of coursework, involved in multiple projects and pursing/obtained certifications Obtained AWS Cloud Practitioner and Certified Associate in Project Management (PMI). Pursing AWS Solutions Architect certification. Interested in Cloud Computing, AI integration, and Project Management. 
 
-### Technical Skills: Python, SQL, AWS
-### Connect with me on LinkedIn! - https://www.linkedin.com/in/jason-pondugula/
 
 ### Education 
 - University of Conneciticut, B.S Major: Computer Science 
@@ -23,7 +21,8 @@
 
 ### Projects 
 - Snake Game (Python)
-> In my perosonal project, I focused on creating a Snake game utilizing object-oriented programming principles where the primary goal is for users to guide a snake to consume as many balls as possible without colliding with walls or the snake itself. As the game progresses, the snake grows in size, speeds ups, and food items appear randomly on the board. To achieve this, I employed object-oriented programming principles in Python, which allowed me to encapsulate the game's logic within various objects. This approach greatly enhanced the efficiency of managing the game's behavior and state. My responsibilities encompassed the entire software development lifecycle, including coding, testing, and debugging, to ensure the game performed optimally and provided an enjoyable user experience.
+> 
+In my personal project, I developed a Snake game using object-oriented programming in Python. The game's objective was the recreate the popular Snake Game on Google. I encapsulated the game's logic into objects and different key classes, improving the efficiency of managing its behavior and state. I covered software development lifecycle, including coding, testing, and debugging, ensuring the optimal user experience. 
 
 ### Certifications 
 
