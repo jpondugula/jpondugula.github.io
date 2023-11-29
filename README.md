@@ -8,9 +8,9 @@ The Master's School, High School Diploma - Valedictorian
 Bookkeeping Assistant @ Solution Innovators LLC, South Windsor, CT 
 - Description
 
-###Projects 
+### Projects 
 
-###Certifications 
+### Certifications 
 
 AWS Cloud Practitioner 
 Certificed Associate in Project Management 
