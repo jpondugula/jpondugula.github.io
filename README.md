@@ -9,6 +9,11 @@
 - The Master's School, High School Diploma - Valedictorian
   > Activities/Socities: Science Club (Founder/Leader), Student Government (Class Representative), National Honors Society (Leader), Varisty Basketball (Captain), Varsity Soccer, Varsity Frisbee (Captain) 
   > Honors/Awards: High Honors (Four Consecutive Years), National AP Scholar, SAT: 1490
+  > <ul style="list-style-type:none;">
+    <li>Activities/Socities: Science Club (Founder/Leader), Student Government (Class Representative), National Honors Society (Leader), Varisty Basketball (Captain), Varsity Soccer, Varsity Frisbee (Captain)</li>
+    <li>Honors/Awards: High Honors (Four Consecutive Years), National AP Scholar, SAT: 1490</li>
+</ul>
+
 
 ### Work Experience 
 Bookkeeping Assistant @ Solution Innovators LLC, South Windsor, CT 
