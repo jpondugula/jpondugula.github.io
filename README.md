@@ -1,6 +1,6 @@
 # Computer Science Student 
-## Technical Skills: Python, SQL, AWS
-## (https://www.linkedin.com/in/jason-pondugula/) "Connect with me on LinkedIn")
+### Technical Skills: Python, SQL, AWS
+### Connect with me on LinkedIn1 - https://www.linkedin.com/in/jason-pondugula/
 
 ### Education 
 - University of Conneciticut, B.S Major: Computer Science 
