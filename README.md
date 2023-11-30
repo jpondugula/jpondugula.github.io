@@ -9,11 +9,11 @@
 
 
 ### Education 
-- University of Conneciticut, B.S Major: Computer Science
+- University of Conneciticut, B.S Major: Computer Science (Class of 2026)
   >
-   - GPA: 3.5/4.0 | Class of 2026
+   - GPA: 3.5/4.0 
    - Activites/Clubs: Husky Developers, UConn AI Club, UConn Data Science Club
-- The Master's School, High School Diploma
+- The Master's School, High School Diploma (Class of 2022)
   >
   - GPA: 4.47/4.0 - Valedictorian
   - Honors/Awards: National AP Scholar, High Honor Roll (Four Consecutive Years), SAT: 1490 (98th Percentile), The Master's Student Award
