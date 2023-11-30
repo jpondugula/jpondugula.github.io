@@ -21,10 +21,11 @@
 
 ### Work Experience 
 - Bookkeeping Assistant - Solution Innovators LLC, South Windsor, CT 
->
+ >
   - Manage accounting tasks such as monthly billing, book reconciliation, sales tax management, and biweekly payroll calculation.
   - Regular communication with various departments and senior employees for task progress and efficient completion.
   - Gain exposure to corporate environment and LLC structure through daily interactions and responsibilities.
+
 - STEM Tutor - The Master's School, West Simsbury, CT
   >
   - Recognized for academic excellence, selected as a top 10% student tutor in STEM subjects including Python programming, chemistry, biology, and calculus.
