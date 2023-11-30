@@ -20,8 +20,8 @@
   
 
 ### Work Experience 
-- Bookkeeping Assistant - Solution Innovators LLC, South Windsor, CT 
- >
+- Bookkeeping Assistant - Solution Innovators LLC, South Windsor, CT
+  >
   - Manage accounting tasks such as monthly billing, book reconciliation, sales tax management, and biweekly payroll calculation.
   - Regular communication with various departments and senior employees for task progress and efficient completion.
   - Gain exposure to corporate environment and LLC structure through daily interactions and responsibilities.
