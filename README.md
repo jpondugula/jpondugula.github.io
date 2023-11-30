@@ -35,12 +35,11 @@
 
 
 ### Projects 
-- Snake Game (Python)
->
-- Developed a Snake game in Python using object-oriented programming, mirroring the popular Snake Game on Google.
-- Encapsulated game logic into key classes, enhancing efficiency in managing game behavior and state.
-- Followed the software development lifecycle, including coding, testing, and debugging, for optimal user experience.
-
+- Snake Game (Python) - Personal Project
+  >
+  - Developed a Snake game in Python using object-oriented programming, mirroring the popular Snake Game on Google.
+  - Encapsulated game logic into key classes, enhancing efficiency in managing game behavior and state.
+  - Followed the software development lifecycle, including coding, testing, and debugging, for optimal user experience.
 
 ### Clubs/Activities
 - College: Husky Developers, UConn AI Club, UConn Data Science Club
