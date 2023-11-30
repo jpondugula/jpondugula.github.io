@@ -21,14 +21,24 @@
 
 ### Work Experience 
 - Bookkeeping Assistant - Solution Innovators LLC, South Windsor, CT 
-> In my role, I work with the accounting department to handle multiple internal and external jobs for the company. My responsibilities include monthly billing their clientele, reconciling of the books, managing sales tax, and calculating the biweekly payroll for employees. Communication is a vital part of my job; I regularly interact with different departments and senior employees to monitor the progress of tasks and ensure efficient completion. This interaction provides me with valuable exposure to the corporate environment, especially within an LLC structure.
+>
+  - Manage accounting tasks such as monthly billing, book reconciliation, sales tax management, and biweekly payroll calculation.
+  - Regular communication with various departments and senior employees for task progress and efficient completion.
+  - Gain exposure to corporate environment and LLC structure through daily interactions and responsibilities.
 - STEM Tutor - The Master's School, West Simsbury, CT
-  > As a top student in my school, I was chosen to tutor in STEM subjects like Python programming, chemistry, biology, and calculus. I focused on enhancing students' understanding, problem-solving, and critical thinking skills through a student-centered approach, adapting my teaching to individual needs. My aim was to create a supportive environment that fostered success in STEM areas, demonstrating both my academic expertise and my ability to effectively communicate complex concepts. 
+  >
+  - Recognized for academic excellence, selected as a top 10% student tutor in STEM subjects including Python programming, chemistry, biology, and calculus.
+  - Employed a student-centered approach to enhance students' understanding, academic performance, and critical thinking in STEM areas.
+  - Tailored teaching methods to individual learning styles, fostering a supportive educational environment for effective STEM learning.
+  - Demonstrated both academic proficiency and the ability to impart knowledge engagingly and accessibly to students.
 
 
 ### Projects 
 - Snake Game (Python)
-> In my personal project, I developed a Snake game using object-oriented programming in Python. The game's objective was the recreate the popular Snake Game on Google. I encapsulated the game's logic into objects and different key classes, improving the efficiency of managing its behavior and state. I covered software development lifecycle, including coding, testing, and debugging, ensuring the optimal user experience.
+>
+- Developed a Snake game in Python using object-oriented programming, mirroring the popular Snake Game on Google.
+- Encapsulated game logic into key classes, enhancing efficiency in managing game behavior and state.
+- Followed the software development lifecycle, including coding, testing, and debugging, for optimal user experience.
 
 
 ### Clubs/Activities
